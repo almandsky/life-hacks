@@ -41,7 +41,10 @@
     "react-md": "^1.10.2",
     "react-share": "^2.4.0",
     "react-twitter-widgets": "^1.7.1",
-    "url-join": "^4.0.0"
+    "url-join": "^4.0.0",
+    "set-value": ">=2.0.1",
+    "serialize-javascript": ">=2.1.1",
+    "mem": ">=4.0.0"
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
