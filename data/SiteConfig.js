@@ -8,9 +8,9 @@ const config = {
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A social web site for users to share their life hacks", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteFBAppID: "1863270957324034", // FB Application ID for using app insights
-  siteGATrackingID: "UA-32696506-2", // Tracking code ID for google analytics.
-  disqusShortname: "ai-tester", // Disqus shortname.
+  siteFBAppID: "2635630236513769", // FB Application ID for using app insights
+  siteGATrackingID: "UA-32696506-3", // Tracking code ID for google analytics.
+  disqusShortname: "life-hacks", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
