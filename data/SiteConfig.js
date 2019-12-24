@@ -10,7 +10,7 @@ const config = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "2635630236513769", // FB Application ID for using app insights
   siteGATrackingID: "UA-32696506-3", // Tracking code ID for google analytics.
-  disqusShortname: "life-hacks", // Disqus shortname.
+  disqusShortname: "life-hacks-1", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
