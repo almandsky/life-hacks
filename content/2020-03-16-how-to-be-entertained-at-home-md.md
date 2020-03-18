@@ -7,7 +7,7 @@ category: LIFE/Games
 tags:
   - ''
 ---
-* The corona virus is causing everyone to stay home! You can't go outside. Here are some activities to keep you entertained.
+The corona virus is causing everyone to stay home! You can't go outside. Here are some activities to keep you entertained.
 
 ## DRAWING
 
