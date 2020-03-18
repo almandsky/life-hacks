@@ -18,6 +18,7 @@ Are you good at drawing? If you are, you can enter a drawing contest! We created
 3. Save picture
 4. Do some online editing if you need to
 5. Send to us
+6. vote
 
 ## GOOGLE HANGOUTS
 
@@ -41,7 +42,5 @@ The corona virus cancelled school and forces us to stay at home. Who cares? It's
 * Spelling
 * Writing
 * Skillz 4 life
-
-
 
 Now you know how to be entertained. Stay tuned for more articles!
