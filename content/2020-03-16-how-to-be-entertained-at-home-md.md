@@ -8,6 +8,7 @@ tags:
   - life
   - life-hacks
   - games
+  - hacks
 ---
 The corona virus is causing everyone to stay home! You can't go outside. Here are some activities to keep you entertained.
 
