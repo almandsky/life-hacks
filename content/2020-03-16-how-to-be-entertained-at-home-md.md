@@ -5,7 +5,9 @@ cover: /assets/smiley.png
 slug: how-to-be-entertained-at-home
 category: LIFE/Games
 tags:
-  - ''
+  - life
+  - life-hacks
+  - games
 ---
 The corona virus is causing everyone to stay home! You can't go outside. Here are some activities to keep you entertained.
 
