@@ -14,13 +14,13 @@ const config = {
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
-  userName: "Sky Chen", // Username to display in the author segment.
-  userEmail: "sky.t.x.chen@gmail.com", // Email used for RSS feed's author segment
+  userName: "Hunk Chen", // Username to display in the author segment.
+  userEmail: "hunkrulez777@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "almandsky", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Bay Area, CA, United States", // User location to display in the author segment.
-  userAvatar: "https://avatars1.githubusercontent.com/u/1797585?v=4&s=460", // User avatar to display in the author segment.
+  userAvatar: "https://avatars1.githubusercontent.com/u/62268994?v=4&s=460", // User avatar to display in the author segment.
   userDescription:
-    "Full stack developer, now interested in AI and Machine Learning.", // User description to display in the author segment.
+    "Pro gamer, pokemon master, math wizard", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -35,11 +35,11 @@ const config = {
     },
     {
       label: "Email",
-      url: "mailto:sky.t.x.chen@gmail.com",
+      url: "mailto:hunkrulez777@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2019. Sky Chen" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2020. Hunk Chen" // Copyright string for the footer of the website and RSS feed.
 };
 
 // Validate
