@@ -11,4 +11,4 @@ tags:
 ---
 # What is life hacks?
 
-Life hacks are the way to get things done in a smart and efficient way.  It is challenging the status quo.
+Life hacks are the way to get things done in a smart and efficient way.  It is challenging the status quo. They are good.
